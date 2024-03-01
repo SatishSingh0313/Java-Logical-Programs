@@ -2,6 +2,7 @@ package com.arr;
 
 public class CopyOldToNewArray {
 	public static void main(String[] args) {
+
 		int arr[] = new int[] {10,20,30,40,50};
 		//creating new array
 		int arr2[] = new int [arr.length];
@@ -12,7 +13,7 @@ public class CopyOldToNewArray {
 			
 		//display arr2 using for each loop
 			for(int i:arr2) {
-				System.out.println(i+" ");
+				System.out.print(i+" ");
 			}
 		}
 	}
