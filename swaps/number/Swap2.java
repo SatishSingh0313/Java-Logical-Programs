@@ -2,6 +2,7 @@ package com.swaps.number;
 
 public class Swap2 {
  public static void main(String[] args) {
+	
 	int a=10, b=20;
 	
 	System.out.println("Before Swap a="+a+" b="+b);

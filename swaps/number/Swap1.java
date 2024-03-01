@@ -5,7 +5,6 @@ public class Swap1 {
 		int a=10 ,b=20, temp=0;
 		
 		System.out.println("Before Swap a="+a+" b="+b);
-		
 		temp=a;
 		a=b;
 		b=temp;

@@ -5,6 +5,7 @@ public class Swap3 {
 		int a=10, b=20;
 		
 		System.out.println("Before Swap a="+a+" b="+b);
+		
 		a=a*b;
 		b=a/b;
 		a=a/b;
